@@ -4,6 +4,6 @@
 
 - The model built uses:
 
-- [x] the info of genres,
-- [x] crew members and few keywords and 
-- [x] finally vectorized using the meta soup on CountVectorizer cause TF-IDFVectorizer would have assigned low weightage to directors and actors(selecting top 3)
+- [x] The info of genres,
+- [x] Crew members and few keywords and 
+- [x] Finally vectorized using the meta soup on CountVectorizer cause TF-IDFVectorizer would have assigned low weightage to directors and actors(selecting top 3)
